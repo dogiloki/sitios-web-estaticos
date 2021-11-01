@@ -1,0 +1,65 @@
+.content{
+	padding: 50px;
+	background: #fafafa;
+	color: #353535;
+	font-size: 18px;
+}
+.content .num_tel{
+	font-size: 18px;
+	color: #119c28;
+}
+.content .frase{
+	font-size: 20px;
+	font-weight: bold;
+	color: #119c28;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.content_videos{
+	display: flex;
+	justify-content: space-around;
+	background: #f0f0f0;
+}
+.content_videos .video{
+	display: block;
+	padding: 20px;
+}
+h3{
+	color: #353535;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.content_atencion{
+	margin: 20px;
+}
+.content_atencion h2{
+	margin: 10px;
+}
+.content_atencion p{
+	margin: 10px;
+	font-size: 20px;
+	color: #353535;
+}
+.content_atencion article{
+	margin: 10px;
+	padding: 20px;
+	background: #f0f0f0;
+	display: block;
+	border: 2px solid #c2c2c2;
+	border-radius: 5px;
+}
+.content_atencion article .dato{
+	display: flex;
+	align-items: center;
+	font-size: 17px;
+}
+h2{
+	color: #119c28;
+}
+.content_atencion article .dato a{
+	margin-bottom: 5px;
+}
+.content_atencion article .dato img{
+	margin-right: 5px;
+}

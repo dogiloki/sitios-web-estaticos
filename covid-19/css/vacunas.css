@@ -1,0 +1,20 @@
+.content{
+	padding: 50px;
+	background: #fafafa;
+	color: #353535;
+	font-size: 18px;
+}
+h2{
+	color: #119c28;
+}
+h4{
+	color: #119c28;
+}
+table{
+	width: 100%;
+}
+table td, table th{
+	box-shadow: 1px 1px #c2c2c2;
+	text-align: left;
+	padding: 20px;
+}

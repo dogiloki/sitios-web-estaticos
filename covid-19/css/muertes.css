@@ -1,0 +1,45 @@
+.content{
+	padding: 10px;
+	background: #fafafa;
+	color: #353535;
+	font-size: 18px;
+	font-size: 80%;
+}
+h2{
+	color: #353535;
+}
+h4{
+	color: #119c28;
+}
+.content .content_grafica{
+	height: 600px;
+	overflow-x: scroll;
+	background: #ffffff;
+	padding: 20px;
+	display: flex;
+	-webkit-box-shadow: 1px 1px 3px 0px #000000;
+	-moz-box-shadow: 1px 1px 3px 0px #000000;
+	box-shadow: 1px 1px 3px 0px #000000;
+}
+.content .content_grafica .columna{
+	display: block;
+	position: absolute;
+	background: #ffffff;
+}
+.content .content_grafica .x{
+	width: 100px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	box-shadow: 0px -1px #c2c2c2;
+}
+.content .content_grafica .barra{
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px;
+	background: #c2c2c2;
+	color: #000000;
+	margin-right: 5px;
+	display: flex;
+	cursor: default;
+}
